@@ -16,3 +16,10 @@ git clone [URL]
 pip install pygame
 ```
 ## Usage and App ScreenShots
+<img src="images/screenshot1.png" width= 600/>
+<img src="images/screenshot2.png" width= 600/>
+<img src="images/screenshot3.png" width= 600/>
+<img src="images/screenshot4.png" width= 600/>
+
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
